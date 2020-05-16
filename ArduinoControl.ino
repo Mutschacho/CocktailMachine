@@ -10,13 +10,7 @@
   int RED_LED = 11;
   int CONTROL_LED = 12;
   int statebt = 0;
-  int flag = 0; 
   int NUMBER_COCKTAILS = 2;
-  const int ledblanc = 22;
-  const int ledvert = 23;
-  const int ledrouge = 24;
-  const int ledjaune = 25;
-  const int ledbleu = 26;
   const int stepPin = 4; 
   const int dirPin = 5; 
   const int enPin = 6;
